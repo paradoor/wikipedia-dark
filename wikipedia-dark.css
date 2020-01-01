@@ -920,6 +920,10 @@
         background-color: #2B2B2B !important;
     }
 
+	.keyboard-key {
+		color: rgb(221, 221, 221) !important;
+	}
+
     /* Preferences */
 
     .client-js #preferences {
